@@ -1,0 +1,27 @@
+{
+  "name": "fullstackdapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.1.8",
+    "mocha": "^5.2.0",
+    "next": "^8.0.4",
+    "next-routes": "^1.4.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "^1.0.5",
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
